@@ -1,0 +1,228 @@
+[ {
+  "shopName" : "Onliner",
+  "laptopList" : [ {
+    "brand" : "Asus",
+    "model" : "ZenBook",
+    "price" : 1100,
+    "processor" : "AMD Ryzen 5",
+    "graphicsCard" : "NVIDIA GeForce MX350",
+    "ssdCapacity" : 512,
+    "ram" : 8,
+    "quantity" : 11
+  }, {
+    "brand" : "Asus",
+    "model" : "VivoBook",
+    "price" : 900,
+    "processor" : "Intel Core i5",
+    "graphicsCard" : "NVIDIA GeForce MX250",
+    "ssdCapacity" : 512,
+    "ram" : 8,
+    "quantity" : 3
+  }, {
+    "brand" : "Xiaomi",
+    "model" : "Pro",
+    "price" : 1500,
+    "processor" : "Intel Core I7",
+    "graphicsCard" : "NVIDIA GeForce MX250",
+    "ssdCapacity" : 512,
+    "ram" : 16,
+    "quantity" : 7
+  }, {
+    "brand" : "Asus",
+    "model" : "TUF Gaming Dash",
+    "price" : 1750,
+    "processor" : "Intel Core I7",
+    "graphicsCard" : "NVIDIA GeForce RTX 3060",
+    "ssdCapacity" : 1024,
+    "ram" : 32,
+    "quantity" : 9
+  }, {
+    "brand" : "Lenovo",
+    "model" : "IdeaPad 3",
+    "price" : 500,
+    "processor" : "AMD Athlon Gold",
+    "graphicsCard" : "AMD Radeon Vega 3",
+    "ssdCapacity" : 256,
+    "ram" : 6,
+    "quantity" : 10
+  } ],
+  "categoryList" : [ {
+    "categoryName" : "Gaming",
+    "laptops" : [ {
+      "brand" : "Asus",
+      "model" : "TUF Gaming Dash",
+      "price" : 1750,
+      "processor" : "Intel Core I7",
+      "graphicsCard" : "NVIDIA GeForce RTX 3060",
+      "ssdCapacity" : 1024,
+      "ram" : 32,
+      "quantity" : 9
+    } ]
+  }, {
+    "categoryName" : "Ultrabook",
+    "laptops" : [ {
+      "brand" : "Asus",
+      "model" : "ZenBook",
+      "price" : 1100,
+      "processor" : "AMD Ryzen 5",
+      "graphicsCard" : "NVIDIA GeForce MX350",
+      "ssdCapacity" : 512,
+      "ram" : 8,
+      "quantity" : 12
+    }, {
+      "brand" : "Xiaomi",
+      "model" : "Pro",
+      "price" : 1500,
+      "processor" : "Intel Core I7",
+      "graphicsCard" : "NVIDIA GeForce MX250",
+      "ssdCapacity" : 512,
+      "ram" : 16,
+      "quantity" : 7
+    } ]
+  }, {
+    "categoryName" : "Classic",
+    "laptops" : [ {
+      "brand" : "Lenovo",
+      "model" : "IdeaPad 3",
+      "price" : 500,
+      "processor" : "AMD Athlon Gold",
+      "graphicsCard" : "AMD Radeon Vega 3",
+      "ssdCapacity" : 256,
+      "ram" : 6,
+      "quantity" : 12
+    }, {
+      "brand" : "Asus",
+      "model" : "VivoBook",
+      "price" : 900,
+      "processor" : "Intel Core i5",
+      "graphicsCard" : "NVIDIA GeForce MX250",
+      "ssdCapacity" : 512,
+      "ram" : 8,
+      "quantity" : 3
+    } ]
+  }, {
+    "categoryName" : "Universal",
+    "laptops" : [ {
+      "brand" : "Asus",
+      "model" : "ZenBook",
+      "price" : 1100,
+      "processor" : "AMD Ryzen 5",
+      "graphicsCard" : "NVIDIA GeForce MX350",
+      "ssdCapacity" : 512,
+      "ram" : 8,
+      "quantity" : 12
+    }, {
+      "brand" : "Asus",
+      "model" : "TUF Gaming Dash",
+      "price" : 1750,
+      "processor" : "Intel Core I7",
+      "graphicsCard" : "NVIDIA GeForce RTX 3060",
+      "ssdCapacity" : 1024,
+      "ram" : 32,
+      "quantity" : 9
+    }, {
+      "brand" : "Asus",
+      "model" : "VivoBook",
+      "price" : 900,
+      "processor" : "Intel Core i5",
+      "graphicsCard" : "NVIDIA GeForce MX250",
+      "ssdCapacity" : 512,
+      "ram" : 8,
+      "quantity" : 3
+    } ]
+  } ]
+}, {
+  "shopName" : "21Vek",
+  "laptopList" : [ {
+    "brand" : "Lenovo",
+    "model" : "IdeaPad 3",
+    "price" : 570,
+    "processor" : "AMD Athlon Gold",
+    "graphicsCard" : "AMD Radeon Vega 3\"",
+    "ssdCapacity" : 256,
+    "ram" : 6,
+    "quantity" : 16
+  }, {
+    "brand" : "Asus",
+    "model" : "TUF Gaming Dash",
+    "price" : 1700,
+    "processor" : "Intel Core I7",
+    "graphicsCard" : "NVIDIA GeForce RTX 3060",
+    "ssdCapacity" : 1024,
+    "ram" : 32,
+    "quantity" : 11
+  }, {
+    "brand" : "Xiaomi",
+    "model" : "Pro",
+    "price" : 1500,
+    "processor" : "Intel Core I7",
+    "graphicsCard" : "NVIDIA GeForce MX250",
+    "ssdCapacity" : 512,
+    "ram" : 16,
+    "quantity" : 5
+  }, {
+    "brand" : "Asus",
+    "model" : "VivoBook",
+    "price" : 970,
+    "processor" : "Intel Core i5",
+    "graphicsCard" : "NVIDIA GeForce MX250",
+    "ssdCapacity" : 512,
+    "ram" : 8,
+    "quantity" : 14
+  } ],
+  "categoryList" : [ {
+    "categoryName" : "Gaming",
+    "laptops" : [ {
+      "brand" : "Asus",
+      "model" : "TUF Gaming Dash",
+      "price" : 1700,
+      "processor" : "Intel Core I7",
+      "graphicsCard" : "NVIDIA GeForce RTX 3060",
+      "ssdCapacity" : 1024,
+      "ram" : 32,
+      "quantity" : 11
+    } ]
+  }, {
+    "categoryName" : "Universal",
+    "laptops" : [ {
+      "brand" : "Asus",
+      "model" : "TUF Gaming Dash",
+      "price" : 1700,
+      "processor" : "Intel Core I7",
+      "graphicsCard" : "NVIDIA GeForce RTX 3060",
+      "ssdCapacity" : 1024,
+      "ram" : 32,
+      "quantity" : 11
+    }, {
+      "brand" : "Xiaomi",
+      "model" : "Pro",
+      "price" : 1500,
+      "processor" : "Intel Core I7",
+      "graphicsCard" : "NVIDIA GeForce MX250",
+      "ssdCapacity" : 512,
+      "ram" : 16,
+      "quantity" : 5
+    }, {
+      "brand" : "Asus",
+      "model" : "VivoBook",
+      "price" : 970,
+      "processor" : "Intel Core i5",
+      "graphicsCard" : "NVIDIA GeForce MX250",
+      "ssdCapacity" : 512,
+      "ram" : 8,
+      "quantity" : 14
+    } ]
+  }, {
+    "categoryName" : "Classic",
+    "laptops" : [ {
+      "brand" : "Lenovo",
+      "model" : "IdeaPad 3",
+      "price" : 570,
+      "processor" : "AMD Athlon Gold",
+      "graphicsCard" : "AMD Radeon Vega 3\"",
+      "ssdCapacity" : 256,
+      "ram" : 6,
+      "quantity" : 16
+    } ]
+  } ]
+} ]

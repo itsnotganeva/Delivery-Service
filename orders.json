@@ -1,0 +1,33 @@
+[ {
+  "clientName" : "Artem",
+  "clientSurname" : "Orlov",
+  "clientAge" : 19,
+  "clientAddress" : "Lenina 23",
+  "shopName" : "Onliner",
+  "laptop" : {
+    "brand" : "Asus",
+    "model" : "ZenBook",
+    "price" : 1100,
+    "processor" : "AMD Ryzen 5",
+    "graphicsCard" : "NVIDIA GeForce MX350",
+    "ssdCapacity" : 512,
+    "ram" : 8,
+    "quantity" : 1
+  }
+}, {
+  "clientName" : "Ivan",
+  "clientSurname" : "Ivanov",
+  "clientAge" : 25,
+  "clientAddress" : "Sovetskaya 11",
+  "shopName" : "21Vek",
+  "laptop" : {
+    "brand" : "Xiaomi",
+    "model" : "Pro",
+    "price" : 1500,
+    "processor" : "Intel Core I7",
+    "graphicsCard" : "NVIDIA GeForce MX250",
+    "ssdCapacity" : 512,
+    "ram" : 16,
+    "quantity" : 1
+  }
+} ]

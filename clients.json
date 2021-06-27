@@ -1,0 +1,16 @@
+[ {
+  "name" : "Dmitriy",
+  "surname" : "Petrov",
+  "age" : 19,
+  "address" : "Yuzhnaya 7"
+}, {
+  "name" : "Artem",
+  "surname" : "Orlov",
+  "age" : 19,
+  "address" : "Lenina 23"
+}, {
+  "name" : "Ivan",
+  "surname" : "Ivanov",
+  "age" : 25,
+  "address" : "Sovetskaya 11"
+} ]
